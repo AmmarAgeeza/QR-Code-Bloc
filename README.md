@@ -1,4 +1,4 @@
-# qr_code_murf
+# qr_code_bloc
 
 A new Flutter project.
 
